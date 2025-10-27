@@ -222,3 +222,5 @@ Generate Reports (for Admin)
 
 Below is the use case diagram for the Booking Management System, illustrating interactions between actors and the system’s main functionalities
 <img width="1114" height="652" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/3be2f7ad-c906-43f8-964c-d5cdc2a6428c" />
+<img width="1114" height="652" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/617f5809-28ae-4e73-93c6-4cf1d0a630a0" />
+
