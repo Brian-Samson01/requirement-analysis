@@ -113,3 +113,57 @@ Validation helps detect and correct inconsistencies or missing requirements befo
 ✅ Summary
 
 These five activities collectively help ensure that software requirements are complete, correct, and aligned with user expectations — setting the foundation for a successful software development project.
+
+
+🧩 Types of Requirements
+
+In software engineering, requirements are broadly categorized into Functional and Non-functional Requirements.
+Both types are essential to ensure the system operates correctly and meets user expectations.
+Below is an explanation and examples based on the Booking Management System case study.
+
+⚙️ 1. Functional Requirements
+
+Functional requirements describe what the system should do — the specific behaviors, features, and functions that define how users interact with the system.
+They define inputs, outputs, and processes necessary to meet user and business needs.
+
+Examples for the Booking Management System:
+
+✅ Users should be able to search for available properties based on date, location, and price range.
+
+✅ The system should allow users to create an account, log in, and log out securely.
+
+✅ Users should be able to book a property and receive a confirmation email with booking details.
+
+✅ The system should allow property owners to list, edit, and delete their property details.
+
+✅ Administrators should be able to approve, suspend, or remove property listings.
+
+✅ The system should generate booking invoices and allow users to view booking history.
+
+Functional requirements ensure that the core operations of the booking system function as intended.
+
+🧠 2. Non-functional Requirements
+
+Non-functional requirements describe how the system performs rather than what it does.
+They define the quality attributes of the system, such as performance, usability, security, and reliability.
+
+Examples for the Booking Management System:
+
+⚡ The system should be able to handle up to 1,000 concurrent users without performance degradation.
+
+🔒 All sensitive user data (e.g., passwords, payment details) should be encrypted using industry standards.
+
+⏱️ The system should ensure that search results are displayed within 3 seconds.
+
+🧭 The interface should be responsive and accessible, supporting both desktop and mobile devices.
+
+🕒 The system should have 99.9% uptime availability to ensure continuous service.
+
+🧩 The application should be scalable, allowing for easy integration of additional modules (e.g., reviews, loyalty programs).
+
+Non-functional requirements ensure the overall quality, security, and performance of the booking management system.
+
+✅ Summary
+
+Functional requirements define what the system does, while non-functional requirements define how well it performs.
+Both are crucial for building a robust, user-friendly, and efficient booking management system.
