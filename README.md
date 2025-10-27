@@ -167,3 +167,58 @@ Non-functional requirements ensure the overall quality, security, and performanc
 
 Functional requirements define what the system does, while non-functional requirements define how well it performs.
 Both are crucial for building a robust, user-friendly, and efficient booking management system.
+
+
+🎯 Use Case Diagrams
+🧩 What is a Use Case Diagram?
+
+A Use Case Diagram is a visual representation that shows how users (known as actors) interact with a system to achieve specific goals (use cases). It helps in understanding system functionality, user roles, and interactions between components during the Requirement Analysis phase.
+
+Use Case Diagrams are part of the Unified Modeling Language (UML) and are commonly used during system analysis and design.
+
+💡 Benefits of Use Case Diagrams
+
+📘 Provides a clear understanding of system boundaries and how different users interact with it.
+
+👥 Helps identify all possible user interactions with the system.
+
+🧭 Aids communication between developers, stakeholders, and designers.
+
+🧱 Serves as a foundation for writing detailed use case scenarios and test cases.
+
+🔍 Ensures all functional requirements are captured early in the SDLC.
+
+👨‍💻 Actors in the Booking Management System
+
+User/Customer – Searches for properties, books stays, and manages bookings.
+
+Property Owner – Lists, updates, and manages property information.
+
+Admin – Manages users, verifies listings, and monitors system activities.
+
+🧾 Use Cases
+
+Some of the main use cases for the Booking Management System include:
+
+Register and Login
+
+Search for Properties
+
+View Property Details
+
+Make a Booking
+
+Process Payment
+
+Manage Bookings
+
+Add/Edit Property Listings (for Owners)
+
+Approve Listings (for Admin)
+
+Generate Reports (for Admin)
+
+🖼️ Use Case Diagram
+
+Below is the use case diagram for the Booking Management System, illustrating interactions between actors and the system’s main functionalities
+<img width="1114" height="652" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/3be2f7ad-c906-43f8-964c-d5cdc2a6428c" />
