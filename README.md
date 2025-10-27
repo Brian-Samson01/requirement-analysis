@@ -11,3 +11,35 @@ The purpose of this project is to:
 - Establish **acceptance criteria** that align with business and user needs.
 
 This repository will contain structured documentation, diagrams, and examples representing the real-world **requirement engineering process** for a **Booking Management System**.
+
+🧠 What is Requirement Analysis?
+
+Requirement Analysis is the process of identifying, documenting, and managing the needs and expectations of stakeholders for a software system. It is the first and most critical phase of the Software Development Life Cycle (SDLC), as it establishes the foundation upon which the entire project is built.
+
+During requirement analysis, the development team works closely with clients, end-users, and other stakeholders to determine what the system should do and how it should perform. The main goal is to bridge the gap between a stakeholder’s ideas and a developer’s implementation plan.
+
+🔍 Key Activities in Requirement Analysis
+
+Elicitation – Gathering requirements from stakeholders using interviews, surveys, observations, and brainstorming sessions.
+
+Analysis – Evaluating the gathered information to identify conflicts, ambiguities, or inconsistencies.
+
+Specification – Clearly documenting the requirements in a structured format such as a Software Requirements Specification (SRS) document.
+
+Validation – Ensuring that the documented requirements accurately reflect stakeholder needs.
+
+Management – Tracking and updating requirements as the project evolves.
+
+🚀 Importance of Requirement Analysis in SDLC
+
+Prevents misunderstandings between clients and developers.
+
+Ensures project alignment with business goals and user needs.
+
+Reduces development costs by identifying issues early before implementation.
+
+Improves system quality through clear and testable requirements.
+
+Guides design, testing, and maintenance activities effectively.
+
+In short, requirement analysis serves as a blueprint for building successful software systems—ensuring that every stakeholder has a shared understanding of what the system should deliver.
