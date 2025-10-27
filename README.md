@@ -62,3 +62,54 @@ By identifying requirements early, teams can detect and fix misunderstandings be
 3. ⚙️ Improves System Quality and User Satisfaction
 
 When requirements are well-defined, developers can design and build systems that perform as expected, leading to better reliability, usability, and performance. Accurate requirements also help testers create precise test cases, ensuring that the final product meets stakeholder expectations and delivers a high-quality user experience.
+
+
+⚙️ Key Activities in Requirement Analysis
+
+Requirement Analysis involves several structured activities that ensure a clear, comprehensive, and validated understanding of what a system must achieve. Each activity plays a crucial role in shaping the foundation of the software development process.
+
+Below are the five key activities in Requirement Analysis:
+
+📝 1. Requirement Gathering
+
+Involves collecting information from stakeholders, users, and other sources about what the system should do.
+
+Uses methods such as interviews, surveys, questionnaires, observations, and reviewing existing documentation.
+
+The main goal is to capture all possible requirements — both functional and non-functional — to guide system development.
+
+💬 2. Requirement Elicitation
+
+Focuses on drawing out requirements through interactive communication with stakeholders.
+
+Helps uncover hidden, implicit, or conflicting needs that may not be obvious at first.
+
+Techniques include brainstorming sessions, workshops, prototyping, and use case discussions to refine the requirements.
+
+📄 3. Requirement Documentation
+
+The gathered and elicited requirements are documented formally in clear and structured formats such as a Software Requirements Specification (SRS) document.
+
+Ensures that all team members have a single source of truth for project expectations.
+
+Documentation includes functional, non-functional, and system constraints.
+
+🔍 4. Requirement Analysis and Modeling
+
+Involves examining, refining, and prioritizing requirements to ensure they are feasible, consistent, and unambiguous.
+
+Modeling techniques like use case diagrams, data flow diagrams (DFDs), and entity-relationship diagrams (ERDs) are used to visualize system behavior and data interactions.
+
+This step bridges the gap between user needs and technical implementation.
+
+✅ 5. Requirement Validation
+
+Ensures that the documented requirements accurately represent stakeholder needs and are practical to implement.
+
+Involves review sessions, inspections, walkthroughs, and prototyping to confirm understanding and agreement.
+
+Validation helps detect and correct inconsistencies or missing requirements before development begins.
+
+✅ Summary
+
+These five activities collectively help ensure that software requirements are complete, correct, and aligned with user expectations — setting the foundation for a successful software development project.
