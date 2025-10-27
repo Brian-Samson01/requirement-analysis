@@ -224,3 +224,43 @@ Below is the use case diagram for the Booking Management System, illustrating in
 <img width="1114" height="652" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/3be2f7ad-c906-43f8-964c-d5cdc2a6428c" />
 <img width="1114" height="652" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/617f5809-28ae-4e73-93c6-4cf1d0a630a0" />
 
+
+Acceptance Criteria
+What is Acceptance Criteria?
+
+Acceptance Criteria are specific, measurable conditions that a software product must satisfy to be accepted by the client or stakeholders.
+They define what needs to be done for a feature or user story to be considered complete and working as expected.
+
+Acceptance Criteria are written before development begins, serving as a bridge between requirements and testing.
+They ensure both the development team and the client share the same understanding of the feature’s behavior and expected outcomes.
+
+Importance of Acceptance Criteria
+
+✅ Clarifies Expectations – Clearly defines what the system should do, minimizing ambiguity.
+
+🧩 Guides Development – Helps developers understand the exact functionality to implement.
+
+🧪 Facilitates Testing – Provides a basis for creating test cases to verify functionality.
+
+🧭 Supports Acceptance Decisions – Helps stakeholders decide if a feature is complete and acceptable.
+
+Example: Acceptance Criteria for the Checkout Feature
+
+Feature: Checkout
+
+Description:
+This feature allows users to complete their booking by reviewing booking details, making payments, and receiving confirmation.
+
+Acceptance Criteria:
+
+The system must display the booking summary, including selected dates, room type, and total cost before payment.
+
+The user must be able to select a payment method (credit card, PayPal, or mobile money).
+
+The system must validate payment details before processing.
+
+Upon successful payment, the user must receive a confirmation message and an email receipt.
+
+If payment fails, the system should display an error message and allow retry.
+
+The checkout process must complete within 3 minutes under normal conditions.
